@@ -85,7 +85,7 @@ python cap-planet/run_cap_planet.py --env CarRacingSkiddingConstrained-v0 \
 ```
 
 ## Contact
-If you have any questions regarding the code or paper, feel free to contact me at jasonyma@seas.upenn.edu or open an issue on this repository.
+If you have any questions regarding the code or paper, feel free to contact jasonyma@seas.upenn.edu or open an issue on this repository.
 
 ## Acknowledgement
 This repository contains code adapted from the 
